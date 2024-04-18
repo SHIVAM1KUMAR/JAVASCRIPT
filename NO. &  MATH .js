@@ -1,16 +1,16 @@
-// //+++++++++++++++NUMBER++++++++++++++++++
-// const score = 400
-// console.log (score);
-// const balance = new Number (2500)
-// console.log(balance); 
-// console.log(balance.toString().length);
-// console.log(balance.toFixed(1));
+//+++++++++++++++NUMBER++++++++++++++++++
+const score = 400
+console.log (score);
+const balance = new Number (2500)
+console.log(balance); 
+console.log(balance.toString().length);
+console.log(balance.toFixed(1));
 
-// const on =123.459
-// console.log(on.toPrecision(4));
+const on =123.459
+console.log(on.toPrecision(4));
 
-// const H =1000000
-// console.log(H.toLocaleString('en-IN'));
+const H =1000000
+console.log(H.toLocaleString('en-IN'));
 
 
 ////////////MATHS///////////
