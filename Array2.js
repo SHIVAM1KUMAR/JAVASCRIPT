@@ -3,7 +3,7 @@ const dc =["spiderman","flash","batmN"]
 marvelheros.push(dc)
 console.log(marvelheros);
 console.log(marvelheros [3][1]);
- const allheros = marvelheros.contact(dc)
+const allheros = marvelheros.contact(dc)
 console.log(allheros);
 
 const allnewheros = [...marvelheros,...dc]
