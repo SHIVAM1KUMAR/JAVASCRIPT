@@ -22,7 +22,7 @@ console.log(this);
 // }
 
 const chai =  () => {
-    let username = "hitesh"
+    let username = "hshivam"
     console.log(this);
 }
 
@@ -37,7 +37,7 @@ const chai =  () => {
 
 // const addTwo = (num1, num2) => ( num1 + num2 )
 
-const addTwo = (num1, num2) => ({username: "hitesh"})
+const addTwo = (num1, num2) => ({username: "shivam"})
 
 
 console.log(addTwo(3, 4))
