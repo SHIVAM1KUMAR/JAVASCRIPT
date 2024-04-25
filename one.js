@@ -1,6 +1,6 @@
 // if
 const isUserloggedIn = true
-const temperature = 41
+const temperature = 452
 
 // if ( temperature === 40 ){
 //     console.log("less than 50");
@@ -48,5 +48,5 @@ if (userLoggedIn && debitCard && 2==3) {
 }
 
 if (loggedInFromGoogle || loggedInFromEmail) {
-    console.log("User logged in");
+    console.log("Users  logged in");
 }
