@@ -27,4 +27,5 @@ console.log(1+2+"3");
  let gamec=100
  gamec++;
  console.log(gamec);
+ console.log("Shivam kumar");
 
